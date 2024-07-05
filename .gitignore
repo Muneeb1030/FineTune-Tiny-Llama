@@ -1,0 +1,4 @@
+/venv/
+/pdf_folder/
+*.txt
+*.csv
